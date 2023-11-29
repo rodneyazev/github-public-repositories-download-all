@@ -1,6 +1,6 @@
 ## Description
 
-A shell script to download all GitHub public repositories
+A shell script to download all public repositories from GitHub.
 
 ## How to
 
