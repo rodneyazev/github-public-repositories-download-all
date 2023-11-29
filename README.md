@@ -4,7 +4,7 @@ A shell script to download all public repositories from GitHub.
 
 ## How to
 
-Change <profile> to your GitHub profile name.
+Change script ```<profile>``` to your GitHub profile name.
 
 ## Shell script
 
