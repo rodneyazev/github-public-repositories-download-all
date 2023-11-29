@@ -19,7 +19,7 @@ chmod +x github-public-repositories-download-all.sh
 # Run the script file
 ./github-public-repositories-download-all.sh
 ```
-Log in with your GitHub login account and wait to download all your public GitHub repositories.
+Log in with your GitHub account and wait to download all your public GitHub repositories.
 
 ```bash
 What account do you want to log into?  [Use arrows to move, type to filter]
