@@ -2,6 +2,11 @@
 
 A shell script to download all public repositories from GitHub.
 
+You will need to install GH application.
+
+```bash
+sudo apt update && sudo apt install -y gh
+```
 ## How to
 
 Change script ```<profile>``` to your GitHub profile name.
